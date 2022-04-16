@@ -39,8 +39,24 @@
         "price": 4500,
         "qty": 1
     },
-    {
+     {
         "id": 12, 
+        "src": "https://images.pexels.com/photos/5706413/pexels-photo-5706413.jpeg", 
+        "name": "Tony",
+        "details": "Male Height:60cm, Weight:29kg",
+        "price": 4500,
+        "qty": 1
+    },
+     {
+        "id": 13, 
+        "src": "https://images.pexels.com/photos/7210753/pexels-photo-7210753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 500w, https://images.pexels.com/photos/7210753/pexels-photo-7210753.jpeg", 
+        "name": "Tony",
+        "details": "Male Height:60cm, Weight:29kg",
+        "price": 4500,
+        "qty": 1
+    },
+    {
+        "id": 14, 
         "src": "https://images.pexels.com/photos/5706413/pexels-photo-5706413.jpeg", 
         "name": "Amy",
         "details": "Female Height:61cm, Weight:31kg",
